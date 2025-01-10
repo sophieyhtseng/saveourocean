@@ -29,6 +29,10 @@ header nav ul li a {
 
 main {
     padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* 半透明背景 */
+    border-radius: 10px; /* 可选：圆角 */
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 可选：阴影 */
 }
 
 footer {
